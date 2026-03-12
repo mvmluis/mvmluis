@@ -1,7 +1,6 @@
 # Luís Macieira
 
-Software Developer focused on Java, Spring Boot, Laravel, React and MySQL.
-
+Software Developer focused on Java, PHP, Spring Boot, Laravel, React.js, TypeScript and MySQL, building web applications and REST APIs with clean architecture and practical business logic.
 ## Contributions
 
 <picture>
